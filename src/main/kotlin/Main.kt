@@ -100,5 +100,5 @@ fun add (x:Int,y:Int, action:(Int,Int)->Unit){
 //    print(action(x,y))
 //
 //}
-//fun action(a:Int,b:Int):Int=a+b
+fun action(a:Int,b:Int):Int=a+b
 fun showFullName(firstName: String,lastName:String)=println("$firstName $lastName")
